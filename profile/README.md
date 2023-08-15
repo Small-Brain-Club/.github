@@ -7,5 +7,5 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 <p align="right">
-    <b>© 2020-2022 SmallBrainClub</b>
+    <b>© 2020-2023 SmallBrainClub</b>
 </p>
